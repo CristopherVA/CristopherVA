@@ -36,6 +36,7 @@
 ![CSSModule](https://img.shields.io/badge/CSSModule-purple)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
 ![ShadowDOM](https://img.shields.io/badge/ShadowDOM-green)
+
 ![NodeJS](https://img.shields.io/badge/NodeJS-green)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-blue)
 ![NestJS](https://img.shields.io/badge/NestJS-red)
@@ -48,6 +49,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-yellow)
 ![Mongoose](https://img.shields.io/badge/Mongoose-orange)
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-blue)
+
 ![Git](https://img.shields.io/badge/Git-green)
 ![GitHub](https://img.shields.io/badge/GitHub-blue)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-green)
@@ -63,7 +65,6 @@
 ![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-purple)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-orange)
 ![Figma](https://img.shields.io/badge/Figma-blue)
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
