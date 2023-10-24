@@ -18,53 +18,62 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-![Python](https://img.shields.io/badge/Python-green)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![ReactJS](https://img.shields.io/badge/ReactJS-blue)
-![React Native](https://img.shields.io/badge/React%20Native-green)
-![Angular](https://img.shields.io/badge/Angular-red)
-![NextJS](https://img.shields.io/badge/NextJS-black)
-![ContextAPI](https://img.shields.io/badge/ContextAPI-purple)
-![Redux](https://img.shields.io/badge/Redux-green)
-![Redux-Toolkit](https://img.shields.io/badge/Redux%20Toolkit-blue)
-![ApolloClient](https://img.shields.io/badge/ApolloClient-yellow)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-green)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue)
-![CSSModule](https://img.shields.io/badge/CSSModule-purple)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-blue)
-![ShadowDOM](https://img.shields.io/badge/ShadowDOM-green)
+### Language
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 
-![NodeJS](https://img.shields.io/badge/NodeJS-green)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-blue)
-![NestJS](https://img.shields.io/badge/NestJS-red)
-![Fastapi](https://img.shields.io/badge/Fastapi-green)
-![TypeORM](https://img.shields.io/badge/TypeORM-orange)
-![PrismaORM](https://img.shields.io/badge/PrismaORM-blue)
-![Apollo Server](https://img.shields.io/badge/Apollo%20Server-purple)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
-![Firestore](https://img.shields.io/badge/Firestore-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-yellow)
-![Mongoose](https://img.shields.io/badge/Mongoose-orange)
-![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-blue)
+### Frontend
+![Html5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![Css3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![ReactJS](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React%20Native-green?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge)
+![ContextAPI](https://img.shields.io/badge/ContextAPI-purple?style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-green?style=for-the-badge)
+![Redux-Toolkit](https://img.shields.io/badge/Redux%20Toolkit-blue?style=for-the-badge)
+![Apollo Client](https://img.shields.io/badge/Apollo%20Client-yellow?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-green)
-![GitHub](https://img.shields.io/badge/GitHub-blue)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-green)
-![Docker](https://img.shields.io/badge/Docker-blue)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-green)
-![Vercel](https://img.shields.io/badge/Vercel-blue)
-![Dokku](https://img.shields.io/badge/Dokku-purple)
-![Dockerhub](https://img.shields.io/badge/Dockerhub-yellow)
-![OpenAI](https://img.shields.io/badge/OpenAI-green)
-![Replicate](https://img.shields.io/badge/Replicate-orange)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-blue)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-green)
-![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-purple)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-orange)
-![Figma](https://img.shields.io/badge/Figma-blue)
+### Backend
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-blue?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-red?style=for-the-badge&logo=nestjs)
+![Fastapi](https://img.shields.io/badge/Fastapi-green?style=for-the-badge)
+![TypeORM](https://img.shields.io/badge/TypeORM-orange?style=for-the-badge)
+![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-blue?style=for-the-badge)
+![Apollo Server](https://img.shields.io/badge/Apollo%20Server-purple?style=for-the-badge)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Firestore](https://img.shields.io/badge/Firestore-green?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-yellow?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/Mongoose-orange?style=for-the-badge)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-blue?style=for-the-badge)
+
+### Control Version
+![Git](https://img.shields.io/badge/Git-green?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-green?style=for-the-badge&logo=bitbucket)
+
+### Deploy
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-green?style=for-the-badge&logo=github-actions)
+![Vercel](https://img.shields.io/badge/Vercel-blue?style=for-the-badge&logo=vercel)
+![Dokku](https://img.shields.io/badge/Dokku-purple?style=for-the-badge)
+![Dockerhub](https://img.shields.io/badge/Dockerhub-yellow?style=for-the-badge)
+
+### ApiAI
+![OpenAI](https://img.shields.io/badge/OpenAI-green?style=for-the-badge&logo=openai)
+![Replicate](https://img.shields.io/badge/Replicate-orange?style=for-the-badge)
+
+### Adobe
+![Photoshop](https://img.shields.io/badge/Photoshop-blue?style=for-the-badge&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-green?style=for-the-badge&logo=adobe-illustrator)
+![Premier](https://img.shields.io/badge/Premier-purple?style=for-the-badge&logo=adobe-premiere-pro)
+![After Effect](https://img.shields.io/badge/After%20Effects-orange?style=for-the-badge&logo=adobe-after-effects)
+![Figma](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=figma)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
