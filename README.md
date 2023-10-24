@@ -18,7 +18,6 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Python](https://img.shields.io/badge/Python-green)
