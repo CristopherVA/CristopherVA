@@ -1,90 +1,63 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Cristopher Valentin</a> 👋</h1>
-</div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://pbs.twimg.com/profile_banners/1174564255993147393/1692633609/1500x500)">
+# [Full Name]
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[Email](mailto:valentin__c@hotmail.com) • Phone: +1 (849) 455-9378
+[GitHub](https://github.com/youraccount) • [LinkedIn](https://www.linkedin.com/in/youraccount) • [Portfolio Web](https://yourwebsite.com)
 
-## Sobre mi
+![GitHub followers](https://img.shields.io/github/followers/youraccount?style=social)
+![GitHub stars](https://img.shields.io/github/stars/youraccount?style=social)
+![GitHub forks](https://img.shields.io/github/forks/youraccount?style=social)
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+35k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+## Summary
 
-## Proyectos *bombitas*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>
+I am a passionate software developer and graphic designer with over 4 years of experience in the field. I have worked on a variety of projects, developing a wide range of skills and knowledge in web and mobile development. I consider myself a creative problem solver, passionate about finding efficient and elegant solutions for complex problems. As a developer, my focus is on creating software that is user-friendly, scalable, and secure. I take pride in my ability to work well in teams, collaborating with others to deliver projects on time and within budget. Throughout my career, I have worked with a variety of technologies, such as ReactJS, NextJS, NodeJS, Python, Illustrator, and Figma, to name a few.
 
-<td width="50%">
-               <br>
-<h3 align="center">Arquitectura MVVM</h3>
-<div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
+## Work Experience
 
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Curso Android Básico</h3>
-<div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>                                                    
-</table>                                                                                 
-</div>
-<br>
+**Full Stack Developer**, Digital Health Network (DHN, R.D.)
+*June 2022 - Current | Full Time (hybrid)*
+- Design and implementation of the UI, consuming data from a GraphQL API, and developing data persistence (CRUD) for each assigned module.
+- Development of new process and business logic entities in the GraphQL API, connected with PostgreSQL by creating queries for database operations.
+- Deployment of code in different environments (dev, qa, staging, production). Identifying and managing software development issues and risks.
 
-### ⚙️ &nbsp;GitHub Analytics
+**Frontend Developer**, GemStonesGroup
+*February 2021 - February 2022 | Fulltime*
+- Development of cutting-edge graphic interfaces based on Figma designs.
+- Development of new features and UI design for websites.
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+**Graphic Designer | Video Editor**, Teleoperadora del Nordeste (TELENORD)
+*February 2019 - February 2021 | Fulltime*
+- Editing news, special events, documentaries, and commercials.
+- Designing posts, bumpers, and banners for live programs.
+
+**Consultant | Full Stack Web Developer | Graphic Design**
+*September 2018 - Current | Remote*
+- Creation of websites and web applications.
+- Creation of graphic designs, such as logos, social media posts, and video editing.
+- Printing office supplies and creating corporate designs.
+
+## Featured Projects
+
+### [Project Name 1](project_link_1)
+
+Brief project description 1.
+
+### [Project Name 2](project_link_2)
+
+Brief project description 2.
+
+### [Project Name 3](project_link_3)
+
+Brief project description 3.
+
+## Education
+
+- Bachelor of Software Engineering (UAPA), University Open to Adults, S.D. Este, RD
+  *September 2018 - Current academic term student*
+
+## Skills
+
+<!-- Add your skills here -->
+
+## Certifications
+
+<!-- Add your certifications here -->
