@@ -40,8 +40,24 @@
 ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-05122A?style=flat&logo=graphql)&nbsp;
 ![GRAPHQL](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 ![TAILWIND CSS](https://img.shields.io/badge/-TAILWINDCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
+![CSS MODULE](https://img.shields.io/badge/-CSS%20MODULE-05122A?style=flat&logo=cssmodule)&nbsp;
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP5-05122A?style=flat&logo=bootstrap)&nbsp;
+![SHADCN](https://img.shields.io/badge/-SHADCN-05122A?style=flat&logo=shadcn)&nbsp;
 
+### Backend
+![NODEJS](https://img.shields.io/badge/-NODE%20JS-05122A?style=flat&logo=node)&nbsp;
+![EXPRESS JS](https://img.shields.io/badge/-EXPRESS%20JS-05122A?style=flat&logo=express)&nbsp;
+![NEST JS](https://img.shields.io/badge/-NEST%20JS-05122A?style=flat&logo=nest)&nbsp;
+![FAST API](https://img.shields.io/badge/-FAST%20API-05122A?style=flat&logo=fastapi)&nbsp;
+![TYPEORM](https://img.shields.io/badge/-TYPEORM-05122A?style=flat&logo=fastapi)&nbsp;
+![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)&nbsp;
+![APOLLO SERVER](https://img.shields.io/badge/-APOLLO%20SERVER-05122A?style=flat&logo=apollo)&nbsp;
 
+### Database
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-05122A?style=flat&logo=postgresql)&nbsp;
+![FIREBASE](https://img.shields.io/badge/-FIREBASE-05122A?style=flat&logo=firebase)&nbsp;
+![MONGODB](https://img.shields.io/badge/-MONGO%20DB-05122A?style=flat&logo=mongodb)&nbsp;
+![AWS AMPLIFY](https://img.shields.io/badge/-AWS%20AMPLIFY-05122A?style=flat&logo=awsamplify)&nbsp;
 
 
 
