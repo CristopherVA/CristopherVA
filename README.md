@@ -28,5 +28,10 @@
 ![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
+### Frontend
+![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
+
+
+
 
 
