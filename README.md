@@ -33,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![REACTJS](https://img.shields.io/badge/-REACT%20JS-05122A?style=flat&logo=react)&nbsp;
 ![REACT NATIVE](https://img.shields.io/badge/-REACT%20NATIVE-05122A?style=flat&logo=react)&nbsp;
-![ANGULAR](https://img.shields.io/badge/-ANGULAR-05122A?style=flat&logo=angular)&nbsp;
+![ANGULAR](https://img.shields.io/badge/-ANGULAR-05122A?style=flat&logo=angularjs)&nbsp;
 ![NEXT JS](https://img.shields.io/badge/-NEXT%20JS-05122A?style=flat&logo=next)&nbsp;
 ![CONTEX API](https://img.shields.io/badge/-CONTEX%20API-05122A?style=flat&logo=contexapi)&nbsp;
 ![REDUX TOOLKIT](https://img.shields.io/badge/-REDUX%20TOOLKIT-05122A?style=flat&logo=redux)&nbsp;
