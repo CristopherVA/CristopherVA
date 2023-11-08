@@ -49,7 +49,7 @@
 ![EXPRESS JS](https://img.shields.io/badge/-EXPRESS%20JS-05122A?style=flat&logo=express)&nbsp;
 ![NEST JS](https://img.shields.io/badge/-NEST%20JS-05122A?style=flat&logo=nest)&nbsp;
 ![FAST API](https://img.shields.io/badge/-FAST%20API-05122A?style=flat&logo=fastapi)&nbsp;
-![TYPEORM](https://img.shields.io/badge/-TYPEORM-05122A?style=flat&logo=fastapi)&nbsp;
+![TYPEORM](https://img.shields.io/badge/-TYPEORM-05122A?style=flat&logo=type)&nbsp;
 ![PRISMA](https://img.shields.io/badge/-PRISMA-05122A?style=flat&logo=prisma)&nbsp;
 ![APOLLO SERVER](https://img.shields.io/badge/-APOLLO%20SERVER-05122A?style=flat&logo=apollo)&nbsp;
 
