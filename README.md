@@ -24,12 +24,13 @@
 ### 🛠 &nbsp;Tech Stack
 
 ### Language
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=typescript)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![PYTHON](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 ### Frontend
-![Html](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
+![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-Css3-05122A?style=flat&logo=css3)&nbsp;
 
 
 
