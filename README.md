@@ -84,10 +84,9 @@
 <table style="width:100%">
 <tr>
 <td>
-
 <img src="https://res.cloudinary.com/valent-design/image/upload/v1700003960/Capture_a5vq2p.png">
-</a>
   <p>System ERP Estetic</p>
+</a>
 </td>
 <td>
 <td>
