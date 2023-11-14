@@ -87,6 +87,7 @@
 <a href="hhttps://chatgpt-messager.vercel.app/chat/TrcpzcANy8i1m7cgYmw2">
 <img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchatgpt.f9491483.png&w=640&q=75">
 </a>
+  <p> clone chatgpt</p>
 </td>
 <td>
 <a href="https://youtu.be/-pWSQYpkkjk">
