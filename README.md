@@ -61,8 +61,24 @@
 
 ### Control Version
 ![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
-![GIT](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+![GITHUB](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+![BITBUCKET](https://img.shields.io/badge/-BITBUCKET-05122A?style=flat&logo=bitbucket)&nbsp;
 
+### Control Version
+![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)&nbsp;
+![GITHUB ACTION](https://img.shields.io/badge/-GITHUB%20ACTION-05122A?style=flat&logo=github)&nbsp;
+![VERCEL](https://img.shields.io/badge/-VERCEL-05122A?style=flat&logo=vercel)&nbsp;
+![DOKKU](https://img.shields.io/badge/-DOKKU-05122A?style=flat&logo=dokku)&nbsp;
+![DOCKERHUB](https://img.shields.io/badge/-DOCKERHUB-05122A?style=flat&logo=dockerhub)&nbsp;
+
+### Api AI
+![OPENAI](https://img.shields.io/badge/-OPENAI-05122A?style=flat&logo=openai)&nbsp;
+![REPLICATE](https://img.shields.io/badge/-REPLICATE-05122A?style=flat&logo=replicate)&nbsp;
+
+### Tools Design
+![PHOTOSHOPT](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-05122A?style=flat&logo=adobephotoshop)&nbsp;
+![ILLUSTRATOR](https://img.shields.io/badge/-ADOBE%20PHOTOSHOP-05122A?style=flat&logo=adobeillustrator)&nbsp;
+![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=flat&logo=figma)&nbsp;
 
 
 
