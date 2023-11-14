@@ -84,55 +84,110 @@
 <table style="width:100%">
 <tr>
 <td>
+
+<img src="https://res.cloudinary.com/valent-design/image/upload/v1700003960/Capture_a5vq2p.png">
+</a>
+  <p>System ERP Estetic</p>
+</td>
+<td>
+<td>
 <a href="hhttps://chatgpt-messager.vercel.app/chat/TrcpzcANy8i1m7cgYmw2">
 <img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchatgpt.f9491483.png&w=640&q=75">
 </a>
-  <p> clone faslkdjalk;sjfksjdlfk;jaslkdfjalksjdfklasdklfjaskld;jf;klasdjfl;kjasd;lkfjasldkf;klasjdflk;ajsdkl;jasl;kd</p>
+  <p>Clone ChatGPT</p>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<a href="https://amazon-2-0-sigma.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon.7f0154f8.png&w=640&q=75">
 </a>
+  <p>Clone Amazon</p>
 </td>
 <td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+<a href="https://uber-clone-seven-phi.vercel.app/login">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuber.4b6e57b7.png&w=640&q=75">
 </a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
+  <p>Clone Uber</p>
 </td>
 <td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
+<a href="https://todo-app-fm-smoky.vercel.app/auth/login">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftodo-app.c0ec0d74.png&w=640&q=75">
 </a>
+  <p>Task System</p>
 </td>
 <td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
 <td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+<a href="[https://todo-app-fm-smoky.vercel.app/auth/login](https://todo-app-angular-nine.vercel.app/)">
+<img src="https://res.cloudinary.com/valent-design/image/upload/v1700003879/too_mdm568.png">
 </a>
+  <p>Task System Angular</p>
 </td>
 <td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
+<a href="https://ip-adress-tracker-pink.vercel.app/">
+<img src="https://res.cloudinary.com/valent-design/image/upload/v1700003879/ip_dajhx3.png">
 </a>
+  <p>IP Tracker</p>
 </td>
 <td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+<a href="https://journal-app-v1.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjournalapp.c1f7f20e.png&w=640&q=75">
 </a>
+  <p>Journal System</p>
 </td>
+<td>
+<a href="https://country-app-chi.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcountry-app.01454475.png&w=640&q=75">
+</a>
+  <p>Country Search</p>
+</td>
+<td>
+<a href="https://rock-paper-scissors-red-two.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frock-paper-sccisors.857cbfc1.png&w=640&q=75">
+</a>
+  <p>Rock Paper Scissors Game</p>
+</td>
+<td>
+<a href="https://web-site-pizza.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-pizza.ae4fa4bb.png&w=640&q=75">
+</a>
+  <p>Website Pizza</p>
+</td>
+<td>
+<a href="https://cristopherva.github.io/Crypto-Tracker-App-React/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcryptoapp.dada3b34.png&w=640&q=75">
+</a>
+  <p>Crypto Search Currency</p>
+</td>
+<td>
+<a href="https://country-app-angular-seven.vercel.app/countries/by-capital">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcryptoapp.dada3b34.png&w=640&q=75">
+</a>
+  <p>Search Country And Info Angular</p>
+</td>
+<td>
+<a href="https://gifs-app-angular-nu.vercel.app/">
+<img src="https://res.cloudinary.com/valent-design/image/upload/v1700003878/gi_fn46k1.png">
+</a>
+  <p>Giff App Angular</p>
+</td>
+<td>
+<a href="https://app-giff.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapp-gif.4342b431.png&w=640&q=75">
+</a>
+  <p>Giff App React</p>
+</td>
+<td>
+<a href="https://pokemon-static-next.vercel.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpokemon.c14cdfbe.png&w=640&q=75">
+</a>
+  <p>List Pokemon App</p>
+</td>
+<td>
+<a href="https://vue-app-pokemon-game.netlify.app/">
+<img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpokemongame.3c2d4a52.png&w=640&q=75">
+</a>
+  <p>Which is this Pokemon Vue</p>
+</td>
+
 </tr>
 </table>
 
