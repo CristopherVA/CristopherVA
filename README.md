@@ -59,5 +59,10 @@
 ![MONGODB](https://img.shields.io/badge/-MONGO%20DB-05122A?style=flat&logo=mongodb)&nbsp;
 ![AWS AMPLIFY](https://img.shields.io/badge/-AWS%20AMPLIFY-05122A?style=flat&logo=awsamplify)&nbsp;
 
+### Control Version
+![GIT](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=git)&nbsp;
+![GIT](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
+
+
 
 
