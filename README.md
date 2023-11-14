@@ -83,7 +83,11 @@
 ## Projects
 <table style="width:100%">
 <tr>
-
+<td>
+<img width="100" src="https://res.cloudinary.com/valent-design/image/upload/v1700003960/Capture_a5vq2p.png">
+  <p>System ERP Estetic</p>
+</a>
+</td>
 <td>
 <a href="hhttps://chatgpt-messager.vercel.app/chat/TrcpzcANy8i1m7cgYmw2">
 <img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchatgpt.f9491483.png&w=640&q=75">
