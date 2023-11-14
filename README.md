@@ -100,6 +100,7 @@
 <p>Clone Amazon</p>
 </a>
 </td>
+</tr>
 <td>
 <a href="https://uber-clone-seven-phi.vercel.app/login">
 <img src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuber.4b6e57b7.png&w=640&q=75">
@@ -184,6 +185,6 @@
 <p>Which is this Pokemon Vue</p>
 </a>
 </td>
-</tr>
+
 </table>
 
