@@ -152,6 +152,11 @@
                 <p>Country Search</p>
             </a>
         </td>
+
+    </tr>
+</table>
+<table>
+    <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
                 href="https://rock-paper-scissors-red-two.vercel.app/">
