@@ -74,7 +74,7 @@
 ![GITHUB](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)&nbsp;
 ![BITBUCKET](https://img.shields.io/badge/-BITBUCKET-05122A?style=flat&logo=bitbucket)&nbsp;
 
-### Control Version
+### Deployment
 ![DOCKER](https://img.shields.io/badge/-DOCKER-05122A?style=flat&logo=docker)&nbsp;
 ![GITHUB ACTION](https://img.shields.io/badge/-GITHUB%20ACTION-05122A?style=flat&logo=github)&nbsp;
 ![VERCEL](https://img.shields.io/badge/-VERCEL-05122A?style=flat&logo=vercel)&nbsp;
