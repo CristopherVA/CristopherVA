@@ -157,7 +157,6 @@
             </a>
         </td>
     </tr>
-
     <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
@@ -226,3 +225,4 @@
             </a>
         </td>
     </tr>
+</table>
