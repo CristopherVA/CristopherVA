@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=2106&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Aditya Vikram Singh Banner](https://images.unsplash.com/photo-1669023414162-8b0573b9c6b2?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Cristopher</h2>
 
