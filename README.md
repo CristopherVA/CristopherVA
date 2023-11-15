@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 A passionate software developer with experience in JavaScript. I've worked on a variety of projects and developed a wide range of skills and knowledge in web and mobile development.
+👨‍💻 A passionate software developer. I've worked on a variety of projects and developed a wide range of skills and knowledge in web and mobile development.
 
 🔍 I consider myself a creative problem solver and am passionate about finding efficient and elegant solutions for complex problems. As a developer, my focus is on creating software that is easy to use, scalable, and secure. I take pride in my ability to work well in teams and collaborate with others to deliver projects on time and within budget.
 
