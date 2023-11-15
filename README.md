@@ -231,7 +231,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@cristopherva-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/CristopheerVA)
 [![Instagram](https://img.shields.io/badge/Instagram-@cristopheerva-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/cristopheerva/)
 </br>
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@cristopheerva)
+[![TikTok](https://img.shields.io/badge/TikTok-@cristopheerva-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@cristopheerva)
 [![Facebook](https://img.shields.io/badge/Facebook-@Cristopher%20Valentin-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://web.facebook.com/cristopher.almonte.39)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristpoher_Valentin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristopher-valentin-almonte-3b05681ba/)
