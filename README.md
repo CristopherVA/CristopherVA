@@ -1,6 +1,6 @@
 ![Aditya Vikram Singh Banner](https://pbs.twimg.com/profile_banners/1174564255993147393/1692633609/1500x500)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Cristopher</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Cristopher</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
