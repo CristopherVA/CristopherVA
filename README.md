@@ -81,7 +81,7 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=flat&logo=figma)&nbsp;
 
 ## Projects
-<div style="width: 100%; display:grid; grid-template-columns: repeat(3, 1fr);">
+<div style="width: 100%; display: flex;">
     <a style="text-decoration: none; color: white; font-weight: bold;" href="#">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003960/Capture_a5vq2p.png">
         <p>System ERP Estetic</p>
