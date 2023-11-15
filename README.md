@@ -84,91 +84,91 @@
 <div style="width:1300; display: grid; grid-template-columns: repeat(3, 1fr); ;">
     <a style="text-decoration: none; color: white; font-weight: bold;" href="#">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003960/Capture_a5vq2p.png">
-        <h4>System ERP Estetic</h4>
+        <p>System ERP Estetic</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="hhttps://chatgpt-messager.vercel.app/chat/TrcpzcANy8i1m7cgYmw2">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchatgpt.f9491483.png&w=640&q=75">
-        <h4>Clone ChatGPT</h4>
+        <p>Clone ChatGPT</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://amazon-2-0-sigma.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Famazon.7f0154f8.png&w=640&q=75">
-        <h4>Clone Amazon</h4>
+        <p>Clone Amazon</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="https://uber-clone-seven-phi.vercel.app/login">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fuber.4b6e57b7.png&w=640&q=75">
-        <h4>Clone Uber</h4>
+        <p>Clone Uber</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="https://todo-app-fm-smoky.vercel.app/auth/login">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftodo-app.c0ec0d74.png&w=640&q=75">
-        <h4>Task System</h4>
+        <p>Task System</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="[https://todo-app-fm-smoky.vercel.app/auth/login](https://todo-app-angular-nine.vercel.app/)">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003879/too_mdm568.png">
-        <h4>Task System Angular</h4>
+        <p>Task System Angular</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="https://ip-adress-tracker-pink.vercel.app/">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003879/ip_dajhx3.png">
-        <h4>IP Tracker</h4>
+        <p>IP Tracker</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://journal-app-v1.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjournalapp.c1f7f20e.png&w=640&q=75">
-        <h4>Journal System</h4>
+        <p>Journal System</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://country-app-chi.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcountry-app.01454475.png&w=640&q=75">
-        <h4>Country Search</h4>
+        <p>Country Search</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="https://rock-paper-scissors-red-two.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Frock-paper-sccisors.857cbfc1.png&w=640&q=75">
-        <h4>Rock Paper Scissors Game</h4>
+        <p>Rock Paper Scissors Game</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://web-site-pizza.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fweb-pizza.ae4fa4bb.png&w=640&q=75">
     </a>
-    <h4>Website Pizza</h4>
+    <p>Website Pizza</p>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="https://cristopherva.github.io/Crypto-Tracker-App-React/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcryptoapp.dada3b34.png&w=640&q=75">
-        <h4>Crypto Search Currency</h4>
+        <p>Crypto Search Currency</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
         href="https://country-app-angular-seven.vercel.app/countries/by-capital">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcryptoapp.dada3b34.png&w=640&q=75">
-        <h4>Search Country And Info Angular</h4>
+        <p>Search Country And Info Angular</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://gifs-app-angular-nu.vercel.app/">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003878/gi_fn46k1.png">
-        <h4>Giff App Angular</h4>
+        <p>Giff App Angular</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://app-giff.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fapp-gif.4342b431.png&w=640&q=75">
-        <h4>Giff App React</h4>
+        <p>Giff App React</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://pokemon-static-next.vercel.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpokemon.c14cdfbe.png&w=640&q=75">
-        <h4>List Pokemon App</h4>
+        <p>List Pokemon App</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;" href="https://vue-app-pokemon-game.netlify.app/">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpokemongame.3c2d4a52.png&w=640&q=75">
-        <h4>Which is this Pokemon Vue</h4>
+        <p>Which is this Pokemon Vue</p>
     </a>
 </div>
