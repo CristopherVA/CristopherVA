@@ -81,13 +81,13 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=flat&logo=figma)&nbsp;
 
 ## Projects
-<div style="width:1300; display: grid; grid-template-columns: repeat(3, 1fr); ;">
+<div style="width:1300; display: grid; grid-template-columns: repeat(3, 300px); ;">
     <a style="text-decoration: none; color: white; font-weight: bold;" href="#">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003960/Capture_a5vq2p.png">
         <p>System ERP Estetic</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
-        href="hhttps://chatgpt-messager.vercel.app/chat/TrcpzcANy8i1m7cgYmw2">
+        href="https://chatgpt-messager.vercel.app/chat/TrcpzcANy8i1m7cgYmw2">
         <img width="300"
             src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fchatgpt.f9491483.png&w=640&q=75">
         <p>Clone ChatGPT</p>
@@ -110,7 +110,7 @@
         <p>Task System</p>
     </a>
     <a style="text-decoration: none; color: white; font-weight: bold;"
-        href="[https://todo-app-fm-smoky.vercel.app/auth/login](https://todo-app-angular-nine.vercel.app/)">
+        href="https://todo-app-fm-smoky.vercel.app/auth/login](https://todo-app-angular-nine.vercel.app/)">
         <img width="300" src="https://res.cloudinary.com/valent-design/image/upload/v1700003879/too_mdm568.png">
         <p>Task System Angular</p>
     </a>
