@@ -106,6 +106,8 @@
                 <p>Clone Amazon</p>
             </a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
                 href="https://uber-clone-seven-phi.vercel.app/login">
@@ -129,6 +131,8 @@
                 <p>Task System Angular</p>
             </a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
                 href="https://ip-adress-tracker-pink.vercel.app/">
@@ -152,10 +156,8 @@
                 <p>Country Search</p>
             </a>
         </td>
-
     </tr>
-</table>
-<table>
+
     <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
@@ -181,6 +183,8 @@
                 <p>Crypto Search Currency</p>
             </a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
                 href="https://country-app-angular-seven.vercel.app/countries/by-capital">
@@ -203,6 +207,8 @@
                 <p>Giff App React</p>
             </a>
         </td>
+    </tr>
+    <tr>
         <td>
             <a style="text-decoration: none; color: white; font-weight: bold;"
                 href="https://pokemon-static-next.vercel.app/">
@@ -220,4 +226,3 @@
             </a>
         </td>
     </tr>
-</table>
