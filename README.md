@@ -198,7 +198,7 @@
             <a style="text-decoration: none; font-weight: bold;"
                 href="https://country-app-angular-seven.vercel.app/countries/by-capital">
                 <img width="300"
-                    src="https://portfolio-dev-cristopherva.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcryptoapp.dada3b34.png&w=640&q=75">
+                    src="https://res.cloudinary.com/valent-design/image/upload/v1700003879/too_mdm568.png">
                 <p style="text-decoration: none;">Search Country And Info Angular</p>
             </a>
         </td>
