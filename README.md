@@ -29,7 +29,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-@Cristopher%20Valentin-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://web.facebook.com/cristopher.almonte.39)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristpoher_Valentin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cristopher-valentin-almonte-3b05681ba/)
-[![Web](https://cristopherva.netlify.app/)
+[![Web](https://img.shields.io/badge/Web-Portfolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://cristopherva.netlify.app/)
 
 ## 🛠 &nbsp;Tech Stack
 
